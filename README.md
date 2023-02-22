@@ -20,6 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[2]
 3.  Docker Installation[1]
 
+
 #### Things we don't understand
 
 1. Git Stash[1]
@@ -31,6 +32,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
+4.  Vue JS[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
