@@ -1,8 +1,8 @@
 ---
-name: Things I Want to Learn
+name: Things I want to learn
 about: Describe this issue template's purpose here.
 title: ''
-labels: ''
+labels: Things I want to know
 assignees: ''
 
 ---
